@@ -1,2 +1,2 @@
-# TIndog
+# Tindog
 One page website
